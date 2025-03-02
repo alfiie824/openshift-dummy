@@ -138,7 +138,7 @@
                     <plugin>
                         <groupId>org.eclipse.jkube</groupId>
                         <artifactId>openshift-maven-plugin</artifactId>
-                        <version>${openshift-maven-plugin.version}</version>
+                        <version>1.18.1</version>
                     </plugin>
                 </plugins>
             </build>
